@@ -16,5 +16,6 @@
 
 
 ## GAS部署步驟
+* 貼上Channel Access Token
 * 右上角部署 -> 新增部署作業 -> 允許權限
 * 複製Webhook連結，到Line的Messaging API頁面貼上
