@@ -4,7 +4,8 @@
 康城縣長馬邦德在上任的路上被麻匪劫了，於是到鵝城當師爺，並翻譯什麼叫做驚喜。
 
 ## QRCode
-<img width="200" alt="截圖 2022-12-14 下午2 36 05" src="https://user-images.githubusercontent.com/30222789/207523880-bac16c93-c0ef-4fa9-9d06-726d75d52e4d.png">
+<img width="200" alt="QR Code" src="https://user-images.githubusercontent.com/30222789/207525564-9ef1b3da-2fe6-4bbb-b62e-e6bbd2c63ea6.png">
+
 
 
 ## 建置LineBot步驟
