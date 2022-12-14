@@ -9,12 +9,12 @@
 
 
 ## 建置LineBot步驟
-* Line Developer -> Create -> Messaging API Channel\
-* Basic Setting -> Line Official Account Manager 機器人個人檔案設定\
-* 回應設定，設定加入好友訊息，關閉自動回應訊息，打開Webhook\
+* Line Developer -> Create -> Messaging API Channel
+* Basic Setting -> Line Official Account Manager 機器人個人檔案設定
+* 回應設定，設定加入好友訊息，關閉自動回應訊息，打開Webhook
 * Messaging API創建Channel Access Token
 
 
 ## GAS部署步驟
-* 右上角部署 -> 新增部署作業 -> 允許權限\
+* 右上角部署 -> 新增部署作業 -> 允許權限
 * 複製Webhook連結，到Line的Messaging API頁面貼上
